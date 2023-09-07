@@ -47,19 +47,23 @@ Currently site is with Static HTML & CSS, and there were no distinguishing featu
 ## Installation
 
 - Use the following command to clone the repository to your local machine: <br>
-"git clone https://github.com/danielace1/Resume.git"
+```sh
+git clone https://github.com/danielace1/Resume.git
+```
 - Change your current directory to the project's root directory: <br>
-"cd Resume"
-- Simply open the 'index.html' file in your preferred web browser. You can drag and drop the file into the browser, or right-click the file and choose 'Open with' followed by your browser choice.
+```sh
+cd Resume
+```
+- Simply open the `index.html` file in your preferred web browser. You can drag and drop the file into the browser, or right-click the file and choose 'Open with' followed by your browser choice.
 
 ### How to Setup the Project Locally?
 
-Check the repository - [Resume](https://github.com/danielace1/Resume), Go to "Local Tab" and download ZIP as your method to download this project to local. Afterwards, Open it with your code editor then use "**Live Server**" or **Right click** on the 'index.html' file and Open with your favorite browser.
+Check the repository - [Resume](https://github.com/danielace1/Resume), Go to "Local Tab" and download ZIP as your method to download this project to local. Afterwards, Open it with your code editor then use "**Live Server**" or **Right click** on the `index.html` file and Open with your favorite browser.
 
 
 ## Usage
 
-- Navigate to the directory where you've cloned or downloaded the repository and locate the 'index.html' file.
+- Navigate to the directory where you've cloned or downloaded the repository and locate the `index.html` file.
 - Double-click the 'index.html' file to open it in your default web browser. Alternatively, you can drag and drop the file into an open browser window.
 - Customize Your Resume.
 - As you make changes, the right pane (or a designated area) should reflect these adjustments in real-time, giving you a live preview of the final look.
@@ -85,7 +89,7 @@ If adding a new feature, please consider writing documentation for it.
 - Once your pull request is approved, the maintainers will merge your contribution into the main repository.
 
 ## License
-MIT
+[MIT](/LICENSE)
 
 ## Acknowledgments
 
