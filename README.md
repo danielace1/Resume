@@ -85,7 +85,7 @@ If adding a new feature, please consider writing documentation for it.
 - Once your pull request is approved, the maintainers will merge your contribution into the main repository.
 
 ## License
-[MIT](https://opensource.org/license/mit/)
+MIT
 
 ## Acknowledgments
 
