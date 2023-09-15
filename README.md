@@ -1,4 +1,4 @@
-# Project Title
+# Sudharsan - Resume
 
 This project is a design-focused tool or template built primarily using HTML and CSS for resumes. 
 
